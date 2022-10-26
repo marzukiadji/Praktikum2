@@ -1,0 +1,7 @@
+# Praktikum2
+#### Copyright.
+### AKHMAD ADJIE MARZUKI
+### 312110564
+### TI.21.C2
+### PRAKTIKUM 2 ACCCESS MODIFIER + SETTER + GETTER + CLASS PESRON
+![IMAGE2](gambar/ss2.png)
